@@ -1,0 +1,4 @@
+python-telegram-bot
+solana
+base58
+python-dotenv
